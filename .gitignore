@@ -1,3 +1,6 @@
+/output
+test*.sh
+
 # Prerequisites
 *.d
 
@@ -54,3 +57,5 @@ dkms.conf
 email.patch
 linux-*/
 .idea/
+.vscode/
+_compile.sh
